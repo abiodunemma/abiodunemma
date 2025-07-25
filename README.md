@@ -161,30 +161,6 @@ User authentication with PayPal payment integration
 
 </details>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=abiodunemma&color=brightgreen&style=for-the-badge)
-  
-  <br><br>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abiodunemma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiodunemma&layout=compact&langs_count=8&theme=radical"/>
-  
-  <br><br>
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abiodunemma&theme=radical)
-  
-  <br><br>
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abiodunemma&theme=react-dark&hide_border=true)
-
-</div>
-
----
 
 ## 🏆 Professional Experience
 

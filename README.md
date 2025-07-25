@@ -163,27 +163,23 @@ User authentication with PayPal payment integration
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 My Development Journey
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=abiodunemma&color=brightgreen&style=for-the-badge)
-  
-  <br><br>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abiodunemma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiodunemma&layout=compact&langs_count=8&theme=radical"/>
-  
-  <br><br>
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abiodunemma&theme=radical)
-  
-  <br><br>
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abiodunemma&theme=react-dark&hide_border=true)
 
-</div>
+### 🚀 **2025 Achievements**
+![Commits](https://img.shields.io/badge/Total%20Commits-500+-4CAF50?style=for-the-badge&logo=git)
+![Projects](https://img.shields.io/badge/Active%20Projects-8+-FF9800?style=for-the-badge&logo=github)
+![Languages](https://img.shields.io/badge/Languages-7+-2196F3?style=for-the-badge&logo=code)
 
+### 💻 **Code Distribution**
+```text
+PHP/Laravel     ████████████████████████████████████████  85%
+JavaScript      ██████████████████████████                60%
+TypeScript      ████████████████████                      45%
+Python          ████████████████                          35%
+HTML/CSS        ████████████████████████████████████████  90%
+MySQL           ██████████████████████████████████        70%
 ---
 
 ## 🏆 Professional Experience
